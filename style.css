@@ -1,0 +1,63 @@
+#logo{ 
+	position:fixed; 
+	top:0; 
+	left:0; 
+} 
+.topnav {
+    background-color: #1e2d40;
+    overflow: hidden;
+    float: left;
+    color: #000000;
+     text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+    float: right;
+    border: 1px black solid;
+    padding: 10px;
+    font: family bebasnew 0regular; ;
+  }
+head {
+    justify-content: space-evenly;
+    box-shadow: 10px 10px 5px 12px grey;
+    border-bottom: 1px black solid;
+    font: family bebasnew 0regular; ;
+
+  }
+title {
+      align-content: center;
+  }
+.banner {
+    display: flex;
+    background:#000000;
+    font-family:Designio;
+    position:absolute;
+    left: 0;
+    right: 0;
+    padding:15px;
+    height:150px;
+    background-size:70%;
+    margin-top: auto;
+    opacity: 50%;
+    font: family bebasnew 0regular; ;     
+}
+body {
+    background-color: #1e2d40;
+    background-image: url('assets/bg.jpg');
+    font: family bebasnew 0regular; ;
+    font-size: medium;
+    }
+
+.aboutme {
+    border: 1px black solid;
+    padding: 10px;
+    background-color: grey;
+    font: family bebasnew 0regular; ;
+}
+.skills-1 {
+    border: 1px black solid;
+    padding: 10px;
+    background-color: grey;
+    font: family bebasnew 0regular; ;
+}
+    
