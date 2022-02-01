@@ -60,4 +60,10 @@ body {
     background-color: grey;
     font: family bebasnew 0regular; ;
 }
+.contact {
+    display: flex;
+    flex: auto;
+    justify-content: center;
+
+}
     
