@@ -39,7 +39,8 @@ title {
     background-size:70%;
     margin-top: auto;
     opacity: 50%;
-    font: family bebasnew 0regular; ;     
+    font: family bebasnew 0regular;
+    justify-content: center;
 }
 body {
     background-color: #1e2d40;
